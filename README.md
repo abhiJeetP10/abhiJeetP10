@@ -10,7 +10,7 @@
       🏫 I am a <code>Pre-Final</code> year student in the Computer Science & Engineering department of <a href="https://iiitdmj.ac.in/">IIITDM Jabalpur</a><br>💻 I am currently learning Django and Postgres<br>😄 Always eager to explore new things and help others.<br>⚓ Reach out to me at pabhijeet349@gmail.com
     </td>
     <td>
-      <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="300"/>
+      <img src="https://camo.githubusercontent.com/819f49b86acc4da7b9604f38c1cf9827b77fd2bb5cdd1449335045541e4d0296/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36392f65362f66362f36396536663637346434616234303833346333313439336432316439353630632e676966" width="300"/>
     </td>
   </tr>
 </table>
