@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      🏫 I am a <code>Pre-Final</code> year student in the Computer Science & Engineering department of <a href="https://iiitdmj.ac.in/">IIITDM Jabalpur</a><br>💻 I am currently learning NextJS<br>😄 Always eager to explore new things and help others.<br>⚓ Reach out to me at pabhijeet349@gmail.com
+      🏫 I am a <code>Pre-Final</code> year student in the Computer Science & Engineering department of <a href="https://iiitdmj.ac.in/">IIITDM Jabalpur</a><br>💻 I am currently learning Docker<br>😄 Always eager to explore new things and help others.<br>⚓ Reach out to me at pabhijeet349@gmail.com
     </td>
     <td>
       <img src="https://camo.githubusercontent.com/819f49b86acc4da7b9604f38c1cf9827b77fd2bb5cdd1449335045541e4d0296/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36392f65362f66362f36396536663637346434616234303833346333313439336432316439353630632e676966" width="400"/>
